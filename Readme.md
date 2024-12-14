@@ -7,4 +7,4 @@ A simple css-only qwerty keyboard UI.
 This is a pure CSS component. You can install it via npm or yarn:
 
 ## Upcoming Features
-Another features are coming
+Another features are coming! Keep close on us
