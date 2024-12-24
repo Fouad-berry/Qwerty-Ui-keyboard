@@ -10,4 +10,4 @@ This is a pure CSS component. You can install it via npm or yarn:
 Another features are coming! Keep close on us
 
 ## Information for the developer
-Thanks you for the support you givr to us
+Thanks you for the support you give to us
